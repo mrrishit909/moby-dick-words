@@ -1,0 +1,4 @@
+choice,tokens,distinct_words,hapax,whale_rank
+"hyphens kept, 's dropped (used here)",213516,18281,8617,23
+hyphens split,216070,17014,7414,21
+'s kept as part of the word,213516,18629,8857,28

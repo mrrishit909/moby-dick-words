@@ -1,0 +1,12 @@
+{
+  "sections": 138,
+  "chapters": 135,
+  "tokens": 213516,
+  "distinct_words": 18281,
+  "hapax": 8617,
+  "hapax_share_of_vocabulary_pct": 47.136371095673105,
+  "hapax_share_of_tokens_pct": 4.035763127821802,
+  "mean_word_length": 4.466278873714382,
+  "whale_family_tokens": 1819,
+  "whale_family_per_1000": 8.519267876880422
+}
